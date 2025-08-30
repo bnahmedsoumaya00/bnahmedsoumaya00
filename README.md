@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Auth Screens collection](https://github.com/bnahmedsoumaya00/Auth_screens_collection)
 
-- 🌱 I’m currently learning **React native Three.js and other jvascript frameworks and tools**
+- 🌱 I’m currently learning **React native Three.js and other javascript frameworks and tools**
 
 - 💬 Ask me about **Java, flutter and Angular**
 
