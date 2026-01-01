@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bnahmedsoumaya00&label=Profile%20views&color=0e75b6&style=flat" alt="bnahmedsoumaya00" /> </p>
 
-- 🔭 I’m currently working on [Pharmacy Managment System ](https://github.com/bnahmedsoumaya00/pharmacy-management-system)  and [Full-stack-JS-Odin-projects](https://github.com/bnahmedsoumaya00/Full-stack-JS-Odin-projects)
+- 🔭 I’m currently working on [Pharmacy Managment System ](https://github.com/bnahmedsoumaya00/pharmacy-management-system)  and [Ai smart reciepe manager](https://github.com/bnahmedsoumaya00/AI_Smart_recipe_Manager)
 
 - 🌱 I’m currently learning **React native Three.js and other javascript frameworks and tools**
 
